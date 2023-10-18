@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bharathkumar Tamilarasu
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL,Excel,Tableau,Python,PowerBI.
+- 🌱 Proficiency in Python,SQL,Excel,Tableau, and PowerBI.
 - 📫 Reach me via
 - Mail : bharathkumar.t.17@gmail.com
 - Phone : +91 9488668644
