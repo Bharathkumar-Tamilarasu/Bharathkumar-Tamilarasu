@@ -1,32 +1,29 @@
-- 👋 Hi, I’m Bharathkumar Tamilarasu
-- 👀 I’m interested in Data Analytics
-- 🌱 Proficiency in Python,SQL,Excel,Tableau, and PowerBI.
-- 📫 Reach me via
-- Mail : bharathkumar.t.17@gmail.com
-- Phone : +91 9488668644
-- LinkedIn: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/
-<!---
+<h1 align="center">Hello 👋, I'm Bharathkumar Tamilarasu</h1>
+<h3 align="center">I'm currently working as an OSIsoft PI Analyst at <a href="https://www.accenture.com/in-en">Accenture</a></h3>
 
-## Links
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Bharathkumar-Tamilarasu)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bharathkumart17.wixsite.com/portfolio)
-
---->
-  **Other Profiles**
-
-- Tableau: https://public.tableau.com/app/profile/bharathkumar.tamilarasu/vizzes
-- HackerRank: https://www.hackerrank.com/profile/bharathkumar_t_1
+<img align="right" alt="Data Analyst" width="400" src="https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/Data%20Analyst_2.gif">
 
 
-<!---
-Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar-tamilarasu&label=Profile%20views&color=0e75b6&style=flat" alt="Bharathkumar-Tamilarasu" /> </p>
+
+## 🙋‍♂️ About Me
+
+OSIsoft PI Analyst | Data Analyst | Data Science Enthusiast
+
+Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Analytics.
+
+## :mailbox: Reach me out!
+
+![Linkedin Badge](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+![Gmail](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)
+
+![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
+
+![Phone Badge](https://img.shields.io/badge/Phone-0058ce?style=flat&logo=viber&logoColor=white)
 
 
-## Links
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Bharathkumar-Tamilarasu)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bharathkumart17.wixsite.com/portfolio)
-
---->
+[![Linkedin Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
+[![Mail Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Phone-0058ce?style=flat&logo=viber&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
