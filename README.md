@@ -11,11 +11,9 @@ OSIsoft PI Analyst | Data Analyst | Data Science Enthusiast
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Analytics.
 
-## :mailbox: Reach me out
+## :mailbox: Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
-
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=wix&logoColor=white)](https://bharathkumart17.wixsite.com/portfolio)
-
+![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)
