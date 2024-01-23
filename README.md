@@ -14,16 +14,9 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 
 ## :mailbox: Reach me out!
 
-![Linkedin Badge](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://bharathkumart17.wixsite.com/portfolio)
 
-![Gmail](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)
-
-![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
-
+![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)
 ![Phone Badge](https://img.shields.io/badge/Phone-0058ce?style=flat&logo=viber&logoColor=white)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
-[![Mail Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/Phone-0058ce?style=flat&logo=viber&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
