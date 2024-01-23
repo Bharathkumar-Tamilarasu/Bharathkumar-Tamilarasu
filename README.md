@@ -17,3 +17,9 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=wix&logoColor=white)](https://bharathkumart17.wixsite.com/portfolio)
 ![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)
+
+
+<div>
+  <a href="https://github.com/Bharathkumar-Tamilarasu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar-tamilarasu&layout=compact&langs_count=7&theme=dark"/>
+</div>
