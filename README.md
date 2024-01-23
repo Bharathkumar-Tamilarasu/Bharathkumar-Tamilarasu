@@ -11,6 +11,14 @@ OSIsoft PI Analyst | Data Analyst | Data Science Enthusiast
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Analytics.
 
+## 🎯 Objective
+
+⚡️ To leverage data analytics skills for impactful decision-making, insights generation, and problem-solving within a dynamic organizational setting. 
+
+⚡️ Seek opportunities to enhance proficiency in data-driven approaches, statistical analysis, and machine learning applications. 
+
+⚡️ Aspire to contribute to the success of projects by transforming raw data into actionable intelligence, enabling informed strategies and fostering a culture of continuous improvement.
+
 ## 📭 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
@@ -38,3 +46,11 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 ![Seaborn](https://img.shields.io/badge/seaborn-7db0bc.svg?style=flat&logo=pypi&logoColor=white)
 ![Regex](https://img.shields.io/badge/regex-64029a.svg?style=flat&logo=python&logoColor=white)
 
+## 📝 Projects
+
+
+## 📈 Stats
+
+<div>
+      <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=bharathkumar-tamilarasu&show_icons=true&theme=prussian height=202, width=60% />
+</div>
