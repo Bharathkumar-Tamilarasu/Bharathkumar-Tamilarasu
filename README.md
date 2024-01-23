@@ -14,6 +14,8 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 ## :mailbox: Reach me out
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
+
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=wix&logoColor=white)](https://bharathkumart17.wixsite.com/portfolio)
 
