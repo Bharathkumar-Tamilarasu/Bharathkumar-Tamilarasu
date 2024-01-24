@@ -17,22 +17,6 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 
 ⚡️ Seek opportunities to enhance proficiency in data-driven approaches, statistical analysis, and machine learning applications. 
 
-
-## 📭 Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
-[![Mail Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-000?style=flat&logo=wix&logoColor=white)](https://bharathkumart17.wixsite.com/portfolio)
-![WhatsApp Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)
-
-
-## 📚 Projects
-
-- View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio). 
-- View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
-- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/bharathkumar.tamilarasu/vizzes).
-
-
 ## 👨‍💻  Technologies Used
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -50,9 +34,25 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 ![Seaborn](https://img.shields.io/badge/seaborn-7db0bc.svg?style=flat&logo=pypi&logoColor=white)
 ![Regex](https://img.shields.io/badge/regex-64029a.svg?style=flat&logo=python&logoColor=white)
 
+
+## 📚 Projects
+
+- View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio). 
+- View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
+- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/bharathkumar.tamilarasu/vizzes).
+
+
 ## 📈 Stats
 
 <div>
       <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=bharathkumar-tamilarasu&show_icons=true&theme=prussian height=202, width=60% />
 </div>
+
+
+## 📭 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
+[![Mail Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-000?style=flat&logo=wix&logoColor=white)](https://bharathkumart17.wixsite.com/portfolio)
+![WhatsApp Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)
 
