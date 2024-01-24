@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, I'm Bharathkumar Tamilarasu</h1>
-<h3 align="center">I'm currently working as an OSIsoft PI Analyst at <a href="https://www.accenture.com/in-en">Accenture</a></h3>
+![Header](https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/github-header-image.png)
+
+##
 
 <img align="right" alt="Data Analyst" width="400" src="https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/Data%20Analyst_2.gif">
 
@@ -7,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-OSIsoft PI Analyst | Data Analyst | Data Science Enthusiast
+I'm currently working as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst at [Accenture](https://www.accenture.com/in-en)
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Analytics.
 
