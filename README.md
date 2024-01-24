@@ -41,21 +41,12 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 - View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
 - View my data visualizations on [**Tableau Public**](https://public.tableau.com/app/profile/bharathkumar.tamilarasu/vizzes).
 
-### ⭐ Favorite Projects
-- [Weightlifting Project](https://public.tableau.com/app/profile/kellyjadams/viz/WeightliftingProject/Final) - Analyzed my own personal weightlifting data from 3 months, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. View my [weightlifting-data repository](https://github.com/kellyjadams/weightlifting-data).
-- [LinkedIn Metrics Dashboard](https://public.tableau.com/app/profile/kellyjadams/viz/LinkedInDashboard_16752261218800/Final) - Analyzed my LinkedIn data from January 1, 2022 to January 31, 2023; focused on measuring key metrics like: followers, post impressions, post reactions, and post comments. 
-- [AP Exam Performance Dashboard](https://lookerstudio.google.com/u/0/reporting/1e843dde-4fd3-4040-83e6-598f37685466/page/uX6JD) - Created an interactive dashboard to show student AP exam performance over the year for 10th - 12th grade students. View my [ap-exam-scores repository](https://github.com/kellyjadams/ap-exam-scores). 
-- [Google Capstone Project](https://public.tableau.com/app/profile/kellyjadams/viz/GoogleCapstoneProjectCyclistic/Dashboard) - Analyzed a dataset for a fictional company, Cyclistic, a bike sharing company in Chicago. Showed how annual members and casual riders use the bike differently. View my [Google Capstone Project repository](https://github.com/kellyjadams/google-capstone-project).  
-
-
 ## 📭 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
-
-[![Mail Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
-
-![WhatsApp Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-25D366?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white)
-
+* [Website](https://bharathkumart17.wixsite.com/portfolio)
+* [Linkedin](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/)
+* [Mail](mailto:bharathkumar.t.17@gmail.com)
+  
 
 ## 📈 My Stats
 
