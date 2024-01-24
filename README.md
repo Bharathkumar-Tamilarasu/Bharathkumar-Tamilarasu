@@ -48,13 +48,6 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 - [Google Capstone Project](https://public.tableau.com/app/profile/kellyjadams/viz/GoogleCapstoneProjectCyclistic/Dashboard) - Analyzed a dataset for a fictional company, Cyclistic, a bike sharing company in Chicago. Showed how annual members and casual riders use the bike differently. View my [Google Capstone Project repository](https://github.com/kellyjadams/google-capstone-project).  
 
 
-## 📈 My Stats
-
-<div>
-      <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=bharathkumar-tamilarasu&show_icons=true&theme=transparent height=202, width=60% />
-</div>
-
-
 ## 📭 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/) 
@@ -62,6 +55,13 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 [![Mail Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharathkumar.t.17@gmail.com)
 
 ![WhatsApp Badge](https://img.shields.io/badge/-Bharathkumar_Tamilarasu-25D366?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white)
+
+
+## 📈 My Stats
+
+<div>
+      <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=bharathkumar-tamilarasu&show_icons=true&theme=transparent height=202, width=60% />
+</div>
 
 ## 👁️‍🗨️ Profile views counter 
 
