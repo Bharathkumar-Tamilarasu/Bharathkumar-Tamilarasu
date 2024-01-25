@@ -12,7 +12,7 @@
 
 ⚡️ Proficient in analyzing and cleaning data and creating impactful visualizations using Power BI
 
-⚡️ In my current role, I serve as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/), contracted via [Accenture](https://www.accenture.com/in-en)..
+⚡️ In my current role, I serve as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/), contracted via [Accenture](https://www.accenture.com/in-en).
 
 ## 🎯 Objective
 
