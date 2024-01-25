@@ -8,9 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-I'm currently working as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst at [Accenture](https://www.accenture.com/in-en)
+⚡️ Transitioning from a student to a data analyst in September 2020, I bring expertise in analyzing and cleaning data using SQL,Python and Excel.
 
-Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Analytics.
+⚡️ Proficient in analyzing and cleaning data and creating impactful visualizations using Power BI
+
+⚡️ I specialize as a full-time [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst at [Accenture](https://www.accenture.com/in-en).
 
 ## 🎯 Objective
 
@@ -40,15 +42,19 @@ Data is today's fuel. The sheer power of data drove me to initiate my journey in
 
 ## 📚 Projects
 
-- View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio).
-- View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
-- View my data visualizations on [**Tableau Public**](https://public.tableau.com/app/profile/bharathkumar.tamilarasu/vizzes).
+⚡️ View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio).
+
+⚡️ View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
+
+⚡️ View my data visualizations on [**Tableau Public**](https://public.tableau.com/app/profile/bharathkumar.tamilarasu/vizzes).
 
 ## 📭 Connect with me
 
-* [Website](https://bharathkumart17.wixsite.com/portfolio)
-* [Linkedin](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/)
-* [Mail](mailto:bharathkumar.t.17@gmail.com)
+⚡️ [Website](https://bharathkumart17.wixsite.com/portfolio)
+
+⚡️ [Linkedin](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/)
+
+⚡️ [Mail](mailto:bharathkumar.t.17@gmail.com)
   
 
 ## 📈 My Stats
