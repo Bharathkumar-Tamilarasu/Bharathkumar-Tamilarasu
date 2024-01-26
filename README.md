@@ -54,12 +54,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-
-
 ## 📚 Projects
 
-⚡️ View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio).
+⚡️ View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio/projects).
 
 ⚡️ View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
 
