@@ -22,13 +22,15 @@
 
 ## 🪄 Skills
 
-* **Database / Servers:** PostgreSQL, MSSQL Server & OSISoft PI System
-* **Programming Languages:** Python & SQL
-* **Data Analysis & Visualization Tools:** PowerBI, MSExcel, Tableau, Matplotlib, Seaborn, Google Colab & Jupyter Notebook
-* **Data Preprocessing Libraries:** Pandas & Numpy
-* **Machine Learning:** Supervised and Unsupervised ML Techniques & Scikit-learn
-* **Statistical Analysis:** Descriptive and Inferential Statistics, Hypothesis Testing & Regression Analysis
-* **Version Control & Collaboration:** GitHub
+* **Database Management**
+* **Programming**
+* **Data Analysis & Visualization**
+* **Data Preprocessing**
+* **Machine Learning**
+  - Supervised and Unsupervised Techniques
+* **Statistical Analysis**
+  - Descriptive and Inferential Statistics, Hypothesis Testing, Regression Analysis
+* **Version Control & Collaboration**
 
 ## 👨‍💻  Technologies Used
 
