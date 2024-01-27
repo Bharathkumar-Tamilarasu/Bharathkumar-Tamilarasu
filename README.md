@@ -20,6 +20,16 @@
 
 ⚡️ Seek opportunities to enhance proficiency in data-driven approaches, statistical analysis, and machine learning applications. 
 
+## Skills
+
+* DATABASE/SERVERS: PostgreSQL, MSSQL Server & OSISoft PI System
+* PROGRAMMING LANGUAGES: Python & SQL
+* DATA ANALYSIS & VISUALIZATION TOOLS: PowerBI, MSExcel, Tableau, Matplotlib, Seaborn, Google Colab & Jupyter Notebook
+* DATA PROCESSING LIBRARIES: Pandas & Numpy
+* MACHINE LEARNING: Supervised and Unsupervised ML Techniques & Scikit-learn
+* **STATISTICAL ANALYSIS** : Descriptive and Inferential Statistics, Hypothesis Testing & Regression Analysis
+* VERSION CONTROL & COLLABORATION: GitHub
+
 ## 👨‍💻  Technologies Used
 
 **Database/Server:**
@@ -32,20 +42,23 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Data Analytics Tools:**
+**Data Analysis & Visualization Tools:**
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-7db0bc.svg?style=for-the-badge&logo=pypi&logoColor=white)
+
+**Data Processing Libraries:**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Regex](https://img.shields.io/badge/regex-64029a.svg?style=for-the-badge&logo=python&logoColor=white)
 
-**Machine Learning & Statistics:**
+**Machine Learning:**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
