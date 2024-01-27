@@ -20,15 +20,15 @@
 
 ⚡️ Seek opportunities to enhance proficiency in data-driven approaches, statistical analysis, and machine learning applications. 
 
-## Skills
+## 🪄 Skills
 
-* DATABASE/SERVERS: PostgreSQL, MSSQL Server & OSISoft PI System
-* PROGRAMMING LANGUAGES: Python & SQL
-* DATA ANALYSIS & VISUALIZATION TOOLS: PowerBI, MSExcel, Tableau, Matplotlib, Seaborn, Google Colab & Jupyter Notebook
-* DATA PROCESSING LIBRARIES: Pandas & Numpy
-* MACHINE LEARNING: Supervised and Unsupervised ML Techniques & Scikit-learn
-* **STATISTICAL ANALYSIS** : Descriptive and Inferential Statistics, Hypothesis Testing & Regression Analysis
-* VERSION CONTROL & COLLABORATION: GitHub
+* **Database / Servers:** PostgreSQL, MSSQL Server & OSISoft PI System
+* **Programming Languages:** Python & SQL
+* **Data Analysis & Visualization Tools:** PowerBI, MSExcel, Tableau, Matplotlib, Seaborn, Google Colab & Jupyter Notebook
+* **Data Preprocessing Libraries:** Pandas & Numpy
+* **Machine Learning:** Supervised and Unsupervised ML Techniques & Scikit-learn
+* **Statistical Analysis:** Descriptive and Inferential Statistics, Hypothesis Testing & Regression Analysis
+* **Version Control & Collaboration:** GitHub
 
 ## 👨‍💻  Technologies Used
 
