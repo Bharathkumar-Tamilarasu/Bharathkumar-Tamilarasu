@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-⚡️ Transitioning from a student to a data analyst in September 2020, I bring expertise in analyzing and cleaning data using SQL,Python and Excel.
+⚡️ Hi, I'm Bharathkumar. I started working as a data analyst in September 2020 after finishing my studies. 
 
-⚡️ Proficient in analyzing and cleaning data and creating impactful visualizations using Power BI
+⚡️ I'm good at analyzing and cleaning data using SQL and Excel, and I enjoy creating meaningful visuals with Power BI.
 
-⚡️ In my current role, I serve as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/), contracted via [Accenture](https://www.accenture.com/in-en).
+⚡️ Currently, I work as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/) through [Accenture](https://www.accenture.com/in-en). My main job is analyzing data in Pharmaceutical Manufacturing, where I use my skills to improve processes and generate meaningful insights.
 
 ## 🎯 Objective
 
