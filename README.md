@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-⚡️ Hi, I'm Bharathkumar. I started working as a data analyst in September 2020 after finishing my studies. 
+⚡️ I'm Bharathkumar. I started working as a data analyst in September 2020 after finishing my studies. 
 
 ⚡️ I'm good at analyzing and cleaning data using SQL and Excel, and I enjoy creating meaningful visuals with Power BI.
 
