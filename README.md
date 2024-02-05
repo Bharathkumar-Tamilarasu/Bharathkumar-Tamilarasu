@@ -12,7 +12,9 @@
 
 ⚡️ I'm good at analyzing and cleaning data using SQL and Excel, and I enjoy creating meaningful visuals with Power BI.
 
-⚡️ Currently, I work as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/) through [Accenture](https://www.accenture.com/in-en). My main job is analyzing data in Pharmaceutical Manufacturing, where I use my skills to improve processes and generate meaningful insights.
+⚡️ Currently, I work as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/) through [Accenture](https://www.accenture.com/in-en).
+
+⚡️ My main job is analyzing data in Pharmaceutical Manufacturing, where I use my skills to improve processes and generate meaningful insights.
 
 ## 🎯 Objective
 
