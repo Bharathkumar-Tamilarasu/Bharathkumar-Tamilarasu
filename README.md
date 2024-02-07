@@ -83,7 +83,7 @@
 
 ⚡️ [Website](https://bharathkumart17.wixsite.com/portfolio)
 
-⚡️ [Linkedin](https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/)
+⚡️ [Linkedin](https://www.linkedin.com/in/bharathkumartamilarasu/)
 
 ⚡️ [Mail](mailto:bharathkumar.t.17@gmail.com)
   
