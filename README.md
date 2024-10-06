@@ -79,7 +79,7 @@
 
 ## 📚 Projects
 
-⚡️ View my portfolio projects on [**my website**](https://bharathkumart17.wixsite.com/portfolio/projects).
+⚡️ View my portfolio projects on [**my website**](https://www.datascienceportfol.io/bharathkumar_t).
 
 ⚡️ View my coding projects on [**Github**](https://github.com/Bharathkumar-Tamilarasu?tab=repositories).
 
@@ -87,7 +87,7 @@
 
 ## 📭 Connect with me
 
-⚡️ [Website](https://bharathkumart17.wixsite.com/portfolio)
+⚡️ [Website](https://www.datascienceportfol.io/bharathkumar_t)
 
 ⚡️ [Linkedin](https://www.linkedin.com/in/bharathkumartamilarasu/)
 
