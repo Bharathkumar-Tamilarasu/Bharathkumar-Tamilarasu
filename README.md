@@ -9,14 +9,11 @@
 ## 🙋‍♂️ About Me
 
 
-⚡️ I started working as a data analyst in September 2020 after finishing my studies. 
+⚡️ Data analytics and machine learning professional with 4+ years of experience in telecom and pharma.
 
-⚡️ I'm good at analyzing and cleaning data using SQL and Excel, and I enjoy creating meaningful visuals with Power BI.
+⚡️ Skilled in Python, SQL, and Azure Databricks.
 
-⚡️ Currently, I work as an [OSIsoft PI](https://www.aveva.com/en/products/aveva-pi-system/) Analyst for [Roche](https://www.roche.com/) through [Accenture](https://www.accenture.com/in-en). 
-
-⚡️ My main job is analyzing data in Pharmaceutical Manufacturing, where I use my skills to improve processes and generate meaningful insights.
-
+⚡️ Expertise in migrating models, optimizing workflows, and improving performance.
 
 ## 🎯 Objective
 
