@@ -1,4 +1,4 @@
-![Header](https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/github-header-image_Final.png)
+![Header](https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/Banner%20Linkedin.png)
 
 ##
 
