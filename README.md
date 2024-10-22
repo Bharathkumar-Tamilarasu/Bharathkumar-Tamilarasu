@@ -8,12 +8,10 @@
 
 ## 🙋‍♂️ About Me
 
+⚡️ I'm Bharathkumar, a data analytics and machine learning professional with over 4 years of experience, primarily working in the telecom and pharmaceutical industries.
 
-⚡️ Data analytics and machine learning professional with 4+ years of experience in telecom and pharma.
+⚡️ I specialize in data processing and machine learning using tools like Python, PySpark, and SQL, with hands-on experience in Azure Databricks, Delta Lake, and MLflow.
 
-⚡️ Skilled in Python, SQL, and Azure Databricks.
-
-⚡️ Expertise in migrating models, optimizing workflows, and improving performance.
 
 ## 🎯 Objective
 
@@ -58,6 +56,9 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
+**Cloud**
+
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Data Processing Libraries:**
 
