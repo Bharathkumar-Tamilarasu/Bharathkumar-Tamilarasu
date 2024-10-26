@@ -21,58 +21,66 @@
 
 ## 🪄 Skills
 
-* **Database Management**
-* **Programming**
-* **Data Analysis & Visualization**
-* **Data Preprocessing**
-* **Machine Learning**
-  - Supervised and Unsupervised Techniques
-* **Statistical Analysis**
-  - Descriptive and Inferential Statistics, Hypothesis Testing, Regression Analysis
-* **Version Control & Collaboration**
+* **Machine Learning** : Supervised and Unsupervised Learning, Feature Engineering 
+* **Data Analysis** : Exploratory Data Analysis, Data Cleaning, Missing Value Imputation
+* **Big Data Processing** : PySpark, Azure Databricks, Delta Lake
+* **Programming** : Python (Pandas, NumPy), SQL
+* **Data Visualization** : Matplotlib, Seaborn, OSIsoft PI Vision
+* **Statistical Analysis** : Descriptive & Inferential Statistics, Hypothesis Testing, Regression, Predictive Modeling
+* **Version Control & Collaboration** : Git, GitHub, Team Collaboration
+* **Domain Expertise** : Pharma Operations, Telecom Analytics
 
 ## 👨‍💻  Technologies Used
 
-**Database/Server:**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mssql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![OSIsoft PI](https://img.shields.io/badge/-OSIsoft_PI-0171bb?style=for-the-badge&logo=pinetwork&logoColor=white)
-
 **Programming Language:**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Data Analysis & Visualization Tools:**
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-7db0bc.svg?style=for-the-badge&logo=pypi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-
-**Cloud**
-
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-**Data Processing Libraries:**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Regex](https://img.shields.io/badge/regex-64029a.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-e6e4e4?style=flat-square&logo=apachespark&logoColor=orange)
 
 **Machine Learning:**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SciKit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data Processing Libraries:**
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-64029a.svg?style=flat-square&logo=python&logoColor=white)
+
+**Cloud Services**
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
+
+**Data Analysis & Visualization Tools:**
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc.svg?style=flat-square&logo=pypi&logoColor=white)
+
+**Database/Server:**
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Mssql Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![OSIsoft PI](https://img.shields.io/badge/-OSIsoft%20PI-0171bb?style=flat-square&logo=pinetwork&logoColor=white)
+
+**IDEs and Notebooks**
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
+
+**Deployment**
+
+![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
 
 **Version Control & Collaboration:**
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GIThub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 
 ## 📚 Projects
