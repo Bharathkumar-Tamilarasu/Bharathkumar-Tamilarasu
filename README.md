@@ -1,7 +1,3 @@
-![Header](https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/Banner%20Linkedin.png)
-
-##
-
 <img align="right" alt="Data Analyst" width="400" src="https://github.com/Bharathkumar-Tamilarasu/Bharathkumar-Tamilarasu/blob/main/Data%20Analyst_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar-tamilarasu&label=Profile%20views&color=0e75b6&style=flat" alt="Bharathkumar-Tamilarasu" /> </p>
