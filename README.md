@@ -50,13 +50,13 @@
 
 **Cloud Services**
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=accusoft&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
 
 **Data Analysis & Visualization Tools:**
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=googlesheets&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=googleanalytics&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc.svg?style=flat-square&logo=pypi&logoColor=white)
@@ -64,7 +64,7 @@
 **Database/Server:**
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Mssql Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Mssql Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=zaim&logoColor=white)
 ![OSIsoft PI](https://img.shields.io/badge/-OSIsoft%20PI-0171bb?style=flat-square&logo=pinetwork&logoColor=white)
 
 **IDEs and Notebooks**
