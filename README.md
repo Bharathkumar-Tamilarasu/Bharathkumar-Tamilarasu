@@ -73,6 +73,7 @@
 
 ![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
 **Version Control & Collaboration:**
 
