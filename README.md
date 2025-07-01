@@ -17,7 +17,7 @@
 
 ## 🦄 What Sets Me Apart 
 
-⚡ I bring hands-on experience from real-world projects where models are not only built, but rigorously deployed, monitored, and improved - ensuring alignment with business objectives and long-term impact.
+💎 I bring hands-on experience from real-world projects where models are not only built, but rigorously deployed, monitored, and improved - ensuring alignment with business objectives and long-term impact.
 
 ## 🪄 Skills
 
