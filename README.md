@@ -15,7 +15,7 @@
 
 ⚡ Collaborated with process engineers and analysts on OSIsoft PI data to reduce alarm fatigue by 80% through actionable SQL insights and Power BI dashboards.
 
-## ✨ What Sets Me Apart 
+## 🦄 What Sets Me Apart 
 
 ⚡ I bring hands-on experience from real-world projects where models are not only built, but rigorously deployed, monitored, and improved - ensuring alignment with business objectives and long-term impact.
 
