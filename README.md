@@ -2,29 +2,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar-tamilarasu&label=Profile%20views&color=0e75b6&style=flat" alt="Bharathkumar-Tamilarasu" /> </p>
 
-## 🙋‍♂️ About Me
+## 👤 Who I Am
 
-⚡️ I'm Bharathkumar, a data analytics and machine learning professional with over 4 years of experience, primarily working in the telecom and pharmaceutical industries.
-
-⚡️ I specialize in data processing and machine learning using tools like Python, PySpark, and SQL, with hands-on experience in Azure Databricks, Delta Lake, and MLflow.
+⚡️ I'm an ML Engineer with around 5 years in IT, including 3+ years building and scaling machine learning solutions on cloud platforms like Azure and Databricks. I began my career specializing in OSIsoft PI data analysis, which grounded my work in real-time industrial data.
 
 
-## 🎯 Objective
+## 💼 What I did
 
-⚡️ To leverage data analytics skills for impactful decision-making, insights generation, and problem-solving within a dynamic organizational setting. 
+⚡ Led the end-to-end migration of 40+ ML models and 140 feature pipelines from Cloudera to Azure - improving runtime by 35% and simplifying operational workflows.
 
-⚡️ Seek opportunities to enhance proficiency in data-driven approaches, statistical analysis, and machine learning applications. 
+⚡ Managed the full MLOps lifecycle of 6 production ML models and oversaw 175+ ADF pipelines, ensuring stability, monitoring, and continuous delivery.
+
+⚡ Collaborated with process engineers and analysts on OSIsoft PI data to reduce alarm fatigue by 80% through actionable SQL insights and Power BI dashboards.
+
+## ✨ What Sets Me Apart 
+
+⚡ I bring hands-on experience from real-world projects where models are not only built, but rigorously deployed, monitored, and improved - ensuring alignment with business objectives and long-term impact.
 
 ## 🪄 Skills
 
-* **Machine Learning** : Supervised and Unsupervised Learning, Feature Engineering 
-* **Data Analysis** : Exploratory Data Analysis, Data Cleaning, Missing Value Imputation
-* **Big Data Processing** : PySpark, Azure Databricks, Delta Lake
-* **Programming** : Python (Pandas, NumPy), SQL
-* **Data Visualization** : Matplotlib, Seaborn, OSIsoft PI Vision
-* **Statistical Analysis** : Descriptive & Inferential Statistics, Hypothesis Testing, Regression, Predictive Modeling
-* **Version Control & Collaboration** : Git, GitHub, Team Collaboration
-* **Domain Expertise** : Pharma Operations, Telecom Analytics
+* **Languages** : Python, SQL, PySpark
+* **Libraries & Frameworks** : Pandas, NumPy, Scikit-learn, Joblib, MLflow
+* **Machine Learning** : Regression, Classification, Ensemble Models (RF, XGBoost), Model Tuning (GridSearchCV), Evaluation (AUC, F1, Precision/Recall)
+* **Data Handling** : Data Cleaning, Feature Engineering, Outlier Handling, Imbalanced Data, Data Pipelines
+* **Cloud & Deployment** : Azure (Databricks, ML Studio, ADF, ADLS), MLflow, Model Monitoring
+* **Visualization & Reporting** : Power BI, Seaborn, Excel, Matplotlib
+* **Databases & Tools** : PostgreSQL, MSSQL, Git, Jupyter, VS Code
 
 ## 👨‍💻  Technologies Used
 
