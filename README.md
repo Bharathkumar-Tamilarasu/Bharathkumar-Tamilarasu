@@ -4,14 +4,14 @@
 
 ## 👤 Who I Am
 
-⚡️ I'm an ML Engineer with around 5 years in IT, including 3+ years building and scaling machine learning solutions on cloud platforms like Azure and Databricks. I began my career specializing in OSIsoft PI data analysis, which grounded my work in real-time industrial data.
+⚡️ I'm an ML Engineer with around 5 years in IT, including 3+ years building and scaling machine learning solutions on cloud platforms like Azure. I began my career specializing in OSIsoft PI data analysis, which grounded my work in real-time industrial data.
 
 
 ## 💼 What I did
 
-⚡ Led the end-to-end migration of 40+ ML models and 140 feature pipelines from Cloudera to Azure - improving runtime by 35% and simplifying operational workflows.
+⚡ Migrated 40+ ML systems and 140+ feature pipelines from Cloudera to Azure - improving runtime by 35%.
 
-⚡ Managed the full MLOps lifecycle of 6 production ML models and oversaw 175+ ADF pipelines, ensuring stability, monitoring, and continuous delivery.
+⚡ Led operational support for 6 ML systems, ensuring minimal downtime and seamless model performance ensuring stability, monitoring, and continuous delivery.
 
 ⚡ Collaborated with process engineers and analysts on OSIsoft PI data to reduce alarm fatigue by 80% through actionable SQL insights and Power BI dashboards.
 
@@ -21,13 +21,13 @@
 
 ## 🪄 Skills
 
-* **Languages** : Python, SQL, PySpark
-* **Libraries & Frameworks** : Pandas, NumPy, Scikit-learn, Joblib, MLflow
-* **Machine Learning** : Regression, Classification, Ensemble Models (RF, XGBoost), Model Tuning (GridSearchCV), Evaluation (AUC, F1, Precision/Recall)
-* **Data Handling** : Data Cleaning, Feature Engineering, Outlier Handling, Imbalanced Data, Data Pipelines
-* **Cloud & Deployment** : Azure (Databricks, ML Studio, ADF, ADLS), MLflow, Model Monitoring
-* **Visualization & Reporting** : Power BI, Seaborn, Excel, Matplotlib
-* **Databases & Tools** : PostgreSQL, MSSQL, Git, Jupyter, VS Code
+* ***Languages*** : Python, SQL, PySpark (Basics)
+* ***Libraries & Frameworks*** : Pandas, NumPy, Scikit-learn, Joblib, MLflow
+* ***Machine Learning*** : Regression, Classification, Ensemble Models (RF, XGBoost), Model Tuning (GridSearchCV), Evaluation (AUC, F1, Precision/Recall)
+* ***Data Handling*** : Data Cleaning, Feature Engineering, Outlier Handling, Imbalanced Data, Data Pipelines
+* ***Cloud & Deployment*** : Azure (Databricks, Azure Machine Learning Studio, Data Factory, ADLS), MLflow, Model Monitoring
+* ***Visualization & Reporting*** : Power BI, Seaborn, Excel, Matplotlib
+* ***Databases & Tools*** : PostgreSQL, MSSQL, Github, Github Actions, Jupyter, VS Code
 
 ## 👨‍💻  Technologies Used
 
