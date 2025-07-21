@@ -4,7 +4,9 @@
 
 ## 👤 Who I Am
 
-⚡️ I'm an ML Engineer with around 5 years in IT, including 3+ years building and scaling machine learning solutions on cloud platforms like Azure. I began my career specializing in OSIsoft PI data analysis, which grounded my work in real-time industrial data.
+⚡️ I'm a Machine Learning Engineer with around 5 years of experience working across the data and AI space. My core strength lies in building ML solutions on cloud platforms like Azure, with a strong focus on automation, reliability, and impact. 
+
+⚡️ I started my career working with real-time industrial data using OSIsoft PI9+. Then, I’ve grown into designing and migrating end-to-end ML pipelines, leading cloud transitions, and supporting critical ML operations in production environments.
 
 
 ## 💼 What I did
@@ -13,7 +15,7 @@
 
 ⚡ Led operational support for 6 ML systems, ensuring minimal downtime and seamless model performance ensuring stability, monitoring, and continuous delivery.
 
-⚡ Collaborated with process engineers and analysts on OSIsoft PI data to reduce alarm fatigue by 80% through actionable SQL insights and Power BI dashboards.
+⚡ Collaborated with process engineers on OSIsoft PI data to reduce alarm fatigue by 60% through actionable SQL insights and Power BI dashboards.
 
 ## 💎 What Sets Me Apart 
 
