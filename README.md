@@ -4,9 +4,9 @@
 
 ## 👤 Who I Am
 
-⚡️ I'm a Machine Learning Engineer with around 5 years of experience working across the data and AI space. My core strength lies in building ML solutions on cloud platforms like Azure, with a strong focus on automation, reliability, and impact. 
+⚡️ I'm a Machine Learning professional with about 5 years of experience working across the data and ML space. I focus on building reliable, production-ready ML solutions on the cloud - mainly Azure - with a strong emphasis on automation and making sure the work actually drives impact.
 
-⚡️ I started my career working with real-time industrial data using OSIsoft PI. Then, I’ve grown into designing and migrating end-to-end ML pipelines, leading cloud transitions, and supporting critical ML operations in production environments.
+⚡️ I began my career working with real-time industrial data using OSIsoft PI, and over time, I’ve moved into designing and migrating end-to-end ML pipelines, leading cloud transitions, and supporting critical ML operations in production. 
 
 
 ## 💼 What I did
