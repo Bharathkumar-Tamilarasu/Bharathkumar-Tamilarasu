@@ -4,9 +4,8 @@
 
 ## 🙋‍♂️ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
  
-I'm a Machine Learning Engineer focused on building scalable ML systems that drive data-informed decisions across the business. I specialize in designing and maintaining robust end-to-end ML pipelines - covering everything from data preprocessing and feature engineering to training, deployment, and monitoring.
-
-Working closely with data scientists, data engineers, and platform teams, I help operationalize machine learning models and streamline the entire model lifecycle. My goal is to ensure that ML solutions are not just accurate, but also reliable, maintainable, and impactful in production.
+* I'm a Machine Learning Engineer focused on building scalable ML systems that drive data-informed decisions across the business. I specialize in designing and maintaining robust end-to-end ML pipelines - covering everything from data preprocessing and feature engineering to training, deployment, and monitoring.
+* Working closely with data scientists, data engineers, and platform teams, I help operationalize machine learning models and streamline the entire model lifecycle. My goal is to ensure that ML solutions are not just accurate, but also reliable, maintainable, and impactful in production.
 
 ## 💼 𝗠𝘆 𝘄𝗼𝗿𝗸 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀
 
