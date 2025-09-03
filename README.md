@@ -2,24 +2,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar-tamilarasu&label=Profile%20views&color=0e75b6&style=flat" alt="Bharathkumar-Tamilarasu" /> </p>
 
-## 👤 Who I Am
+## 🙋‍♂️ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+ 
+I'm a Machine Learning Engineer focused on building scalable ML systems that drive data-informed decisions across the business. I specialize in designing and maintaining robust end-to-end ML pipelines - covering everything from data preprocessing and feature engineering to training, deployment, and monitoring.
 
-⚡️ I'm a Machine Learning professional with about 5 years of experience working across the data and ML space. I focus on building reliable, production-ready ML solutions on the cloud - mainly Azure - with a strong emphasis on automation and making sure the work actually drives impact.
+Working closely with data scientists, data engineers, and platform teams, I help operationalize machine learning models and streamline the entire model lifecycle. My goal is to ensure that ML solutions are not just accurate, but also reliable, maintainable, and impactful in production.
 
-⚡️ I began my career working with real-time industrial data using OSIsoft PI, and over time, I’ve moved into designing and migrating end-to-end ML pipelines, leading cloud transitions, and supporting critical ML operations in production. 
+## 💼 𝗠𝘆 𝘄𝗼𝗿𝗸 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀
 
-
-## 💼 What I did
-
-⚡ Migrated 40+ ML systems and 140+ feature pipelines from Cloudera to Azure - improving runtime by 35%.
-
-⚡ Led operational support for 6 ML systems, ensuring minimal downtime and seamless model performance ensuring stability, monitoring, and continuous delivery.
-
-⚡ Collaborated with process engineers on OSIsoft PI data to reduce alarm fatigue by 60% through actionable SQL insights and Power BI dashboards.
-
-## 💎 What Sets Me Apart 
-
-⚡ I bring hands-on experience from real-world projects where models are not only built, but rigorously deployed, monitored, and improved - ensuring alignment with business objectives and long-term impact.
+* Building and deploying ML models for regression and classification tasks using Scikit-learn and XGBoost.
+* Automating data pipelines using Databricks, Python, SQL, Pyspark for efficient and scalable data processing.
+* Performing in-depth data analysis and visualization using Pandas, NumPy, Matplotlib, and Power BI to guide feature engineering and reporting.
+*  Handling imbalanced datasets and outliers through advanced preprocessing techniques to enhance model generalization.
+*  Using joblib to serialize models and streamline the deployment of reproducible, high-performance solutions.
+*  Implementing model performance monitoring and alerting to ensure real-time insights into model drift and prediction quality.
+*  Managing model artifacts and experiment tracking with automated deployment pipelines.
+*  Collaborating with stakeholders to translate business needs into measurable ML solutions, with a focus on interpretability and impact.
 
 ## 🪄 Skills
 
